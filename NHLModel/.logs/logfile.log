@@ -1,0 +1,2 @@
+2018-04-21 23:36:59,475 DEBUG    Starting new HTTPS connection (1): statsapi.web.nhl.com
+2018-04-21 23:37:00,105 DEBUG    https://statsapi.web.nhl.com:443 "GET /api/v1/schedule?startDate=2017-09-01&endDate=2018-06-25 HTTP/1.1" 200 None
